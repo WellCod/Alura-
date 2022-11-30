@@ -1,4 +1,4 @@
-Simple page create using: HTML, CSS, CSS Grid, FlexBox, PseudoClass
+Landing page create using: HTML, CSS, CSS Grid, FlexBox, PseudoClass
 
 
 ## https://wellcod.github.io/Alura-/
